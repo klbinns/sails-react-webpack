@@ -11,6 +11,7 @@
     "@sailshq/lodash": "^3.10.3",
     "@sailshq/socket.io-redis": "^5.2.0",
     "async": "2.6.0",
+    "axios": "^0.18.0",
     "grunt": "1.0.2",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
